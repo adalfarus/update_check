@@ -8,32 +8,32 @@
     {
       "versionNumber": "1.0",
       "description": "None",
-      "push": True
+      "push": "True"
     },
     {
       "versionNumber": "1.3",
       "description": "None",
-      "push": False
+      "push": "False"
     },
     {
       "versionNumber": "1.4",
       "description": "None",
-      "push": True
+      "push": "True"
     },
     {
       "versionNumber": "1.5",
       "description": "None",
-      "push": False
+      "push": "False"
     },
     {
       "versionNumber": "1.6",
       "description": "None",
-      "push": True
+      "push": "True"
     },
     {
       "versionNumber": "1.7",
       "description": "Version 1.7 is out now, introducing a search feature",
-      "push": False
+      "push": "False"
     }
   ]
 }
