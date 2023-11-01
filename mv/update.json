@@ -2,37 +2,37 @@
   "metadata": {
     "newestVersion": "1.7",
     "authors": "Adalfarus",
-    "lastUpdated": "2023-10-29"
+    "lastUpdated": "2023-11-01"
   },
   "versions": [
     {
       "versionNumber": "1.0",
-      "description": "None",
+      "description": "Everything works, no bugs and no DB implementation yet.",
       "push": "True"
     },
     {
       "versionNumber": "1.3",
-      "description": "None",
+      "description": "implemented basic Pop-Ups aswell as chapter-exporting",
       "push": "False"
     },
     {
       "versionNumber": "1.4",
-      "description": "None",
+      "description": "Fully implemented Pop-Ups and threading.",
       "push": "True"
     },
     {
       "versionNumber": "1.5",
-      "description": "None",
+      "description": "Changed internal content system.",
       "push": "False"
     },
     {
       "versionNumber": "1.6",
-      "description": "None",
+      "description": "Better looks, dark mode, and QSS for every os under 11, and switched graphics package to PySide6.\n The downloading and processing of images has also gotten faster to accommodate for older machines.",
       "push": "True"
     },
     {
       "versionNumber": "1.7",
-      "description": "Version 1.7 is out now, introducing a search feature",
+      "description": "Version 1.7 is out now, introducing a bunch of experimental features, such as: the search feature, lazy loading for smoother scrolling, and general bug-fixes.",
       "push": "False"
     }
   ]
