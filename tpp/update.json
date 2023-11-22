@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "newestVersion": "1.0.0",
+    "authors": "Adalfarus",
+    "lastUpdated": "2023-11-22"
+  },
+  "versions": [
+    {
+      "versionNumber": "1.0.0",
+      "description": "Everything works, no bugs and no DB implementation yet.",
+      "push": "True"
+    }
+  ]
+}
