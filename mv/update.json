@@ -8,41 +8,49 @@
     {
       "versionNumber": "1.0",
       "description": "Everything works, no bugs and no DB implementation yet.",
+      "updateUrl": "None",
       "push": "True"
     },
     {
       "versionNumber": "1.3",
       "description": "implemented basic Pop-Ups aswell as chapter-exporting",
+      "updateUrl": "None",
       "push": "False"
     },
     {
       "versionNumber": "1.4",
       "description": "Fully implemented Pop-Ups and threading.",
+      "updateUrl": "None",
       "push": "True"
     },
     {
       "versionNumber": "1.5",
       "description": "Changed internal content system.",
+      "updateUrl": "None",
       "push": "False"
     },
     {
       "versionNumber": "1.6",
       "description": "Better looks, dark mode, and QSS for every os under 11, and switched graphics package to PySide6.\n The downloading and processing of images has also gotten faster to accommodate for older machines.",
+      "updateUrl": "None",
       "push": "True"
     },
     {
       "versionNumber": "1.6.1",
       "description": "Benefits from 1.7 without the bugs.",
+      "updateUrl": "None",
       "push": "True"
     },
     {
       "versionNumber": "1.6.2",
       "description": "Benefits from 1.7 without the bugs. And is made release-ready. New feature from 1.7 is the search.",
+      "updateUrl": "None",
       "push": "True"
     },
     {
       "versionNumber": "1.7",
       "description": "Version 1.7 is out now, introducing a bunch of experimental features, such as: lazy loading for smoother scrolling, and general bug-fixes.",
+      "updateUrl": "None",
       "push": "False"
     }
   ]
