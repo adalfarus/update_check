@@ -36,8 +36,13 @@
       "push": "True"
     },
     {
+      "versionNumber": "1.6.2",
+      "description": "Benefits from 1.7 without the bugs. And is made release-ready. New feature from 1.7 is the search.",
+      "push": "True"
+    },
+    {
       "versionNumber": "1.7",
-      "description": "Version 1.7 is out now, introducing a bunch of experimental features, such as: the search feature, lazy loading for smoother scrolling, and general bug-fixes.",
+      "description": "Version 1.7 is out now, introducing a bunch of experimental features, such as: lazy loading for smoother scrolling, and general bug-fixes.",
       "push": "False"
     }
   ]
