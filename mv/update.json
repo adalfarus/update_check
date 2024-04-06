@@ -45,7 +45,13 @@
     {
       "versionNumber": "1.6.2",
       "description": "Benefits from 1.7 without the bugs. And is made release-ready. New feature from 1.7 is the search.",
-      "updateUrl": "None",
+      "updateUrl": "https://github.com/adalfarus/Manhwa-Viewer-1.6.2/releases/tag/v.1.6.2",
+      "push": "True"
+    },
+    {
+      "versionNumber": "1.6.2a",
+      "description": "Added small bugfixes for version 1.6.2.",
+      "updateUrl": "https://github.com/adalfarus/Manhwa-Viewer-1.6.2/releases/tag/v.1.6.2a",
       "push": "True"
     },
     {
