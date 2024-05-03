@@ -59,12 +59,6 @@
       "description": "Made the application much more enjoyable than 1.6.3.",
       "updateUrl": "https://github.com/adalfarus/Manhwa-Viewer-1.6/releases/tag/v1.6.4",
       "push": "True"
-    },
-    {
-      "versionNumber": "1.7",
-      "description": "Version 1.7 is out now, introducing a bunch of experimental features, such as: lazy loading for smoother scrolling, and general bug-fixes.",
-      "updateUrl": "None",
-      "push": "False"
     }
   ]
 }
