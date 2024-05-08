@@ -59,6 +59,12 @@
       "description": "Made the application much more enjoyable than 1.6.3.\n\nFeatures include: \n-Reduced load times by more than 100%\n-Smooth scrolling\n-7 new providers\n-Provider switching made easier than ever",
       "updateUrl": "https://github.com/adalfarus/Manhwa-Viewer-1.6/releases/tag/v1.6.4.1",
       "push": "True"
+    },
+    {
+      "versionNumber": "1.6.5a",
+      "description": "!!NONPRODUCTION!!\nImplemented many nice to have features and styling options, Lazy Loading is planned to be in the Full Release.",
+      "updateUrl": "https://github.com/adalfarus/Manhwa-Viewer-1.6/releases/tag/v1.6.5a",
+      "push": "False"
     }
   ]
 }
