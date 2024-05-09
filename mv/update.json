@@ -65,6 +65,12 @@
       "description": "!!NONPRODUCTION!!\nImplemented many nice to have features and styling options, Lazy Loading is planned to be in the Full Release.",
       "updateUrl": "https://github.com/adalfarus/Manhwa-Viewer-1.6/releases/tag/v1.6.5a",
       "push": "False"
+    },
+    {
+      "versionNumber": "1.6.5b",
+      "description": "!!NONPRODUCTION!!\nImplemented custom themes and bugfixes for 1.6.5a.",
+      "updateUrl": "https://github.com/adalfarus/Manhwa-Viewer-1.6/releases/tag/v1.6.5b",
+      "push": "False"
     }
   ]
 }
