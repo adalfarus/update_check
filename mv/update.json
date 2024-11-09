@@ -62,19 +62,19 @@
     },
     {
       "versionNumber": "1.6.5a0",
-      "description": "[Alpha Release: Not Fully Stable]\nImplemented many nice to have features and styling options, Lazy Loading is planned to be in the Full Release.",
+      "description": "[Alpha Release: Not Fully Stable]\nIntroduced various new features and styling options, with lazy loading planned for the full release.",
       "updateUrl": "https://github.com/adalfarus/Manhwa-Viewer-1.6/releases/tag/v1.6.5a",
       "push": "False"
     },
     {
       "versionNumber": "1.6.5b0",
-      "description": "[Preview Release]\nImplemented custom themes and bugfixes for 1.6.5a.",
+      "description": "[Preview Release]\nAdded custom themes and bug fixes.",
       "updateUrl": "https://github.com/adalfarus/Manhwa-Viewer-1.6/releases/tag/v1.6.5b",
       "push": "False"
     },
     {
       "versionNumber": "170a0",
-      "description": "[Alpha Release: Not Fully Stable]\nGeneral performance and look improvements.",
+      "description": "[Alpha Release: Not Fully Stable]\nGeneral performance and UI improvements, with a focus on stabilizing and simplifying enhancements introduced in the last two Alpha and Beta releases.",
       "updateUrl": "None",
       "push": "False"
     }
