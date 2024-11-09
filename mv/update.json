@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "newestVersion": "1.7.0a",
+    "newestVersion": "170a0",
     "authors": "Adalfarus",
     "lastUpdated": "2024-11-05",
     "sorryUrl": "https://github.com/adalfarus/update_check/blob/main/sorry.md"
@@ -61,19 +61,19 @@
       "push": "True"
     },
     {
-      "versionNumber": "1.6.5a",
+      "versionNumber": "1.6.5a0",
       "description": "!!ALPHA VERSION!!\nImplemented many nice to have features and styling options, Lazy Loading is planned to be in the Full Release.",
       "updateUrl": "https://github.com/adalfarus/Manhwa-Viewer-1.6/releases/tag/v1.6.5a",
       "push": "False"
     },
     {
-      "versionNumber": "1.6.5b",
+      "versionNumber": "1.6.5b0",
       "description": "!!ALPHA VERSION!!\nImplemented custom themes and bugfixes for 1.6.5a.",
       "updateUrl": "https://github.com/adalfarus/Manhwa-Viewer-1.6/releases/tag/v1.6.5b",
       "push": "False"
     },
     {
-      "versionNumber": "1.7.0a",
+      "versionNumber": "170a0",
       "description": "!!ALPHA VERSION!!\nGeneral performance and look improvements.",
       "updateUrl": "None",
       "push": "False"
