@@ -8,73 +8,73 @@
   "versions": [
     {
       "versionNumber": "1.0",
-      "description": "Everything works, no bugs and no DB implementation yet.",
+      "description": "[Stable Release]\nInitial release with basic functionality, no database integration and no known bugs.",
       "updateUrl": "None",
       "push": "True"
     },
     {
       "versionNumber": "1.3",
-      "description": "implemented basic Pop-Ups aswell as chapter-exporting",
+      "description": "[Stable Release]\nAdded basic pop-up functionality and chapter-exporting features.",
       "updateUrl": "None",
       "push": "False"
     },
     {
       "versionNumber": "1.4",
-      "description": "Fully implemented Pop-Ups and threading.",
+      "description": "[Stable Release]\nCompleted pop-up functionality and added threading.",
       "updateUrl": "None",
       "push": "True"
     },
     {
       "versionNumber": "1.5",
-      "description": "Changed internal content system.",
+      "description": "[Stable Release]\nUpdated internal content management system.",
       "updateUrl": "None",
       "push": "False"
     },
     {
       "versionNumber": "1.6",
-      "description": "Better looks, dark mode, and QSS for every os under 11, and switched graphics package to PySide6.\n The downloading and processing of images has also gotten faster to accommodate for older machines.",
+      "description": "[Stable Release]\nImproved UI with dark mode and custom QSS styling for Windows Version versions below 11. \nSwitched graphics package to PySide6 to avoid Licensing.\n The downloading and processing of images has also gotten faster to accommodate for older machines.",
       "updateUrl": "None",
       "push": "True"
     },
     {
       "versionNumber": "1.6.1",
-      "description": "Benefits from 1.7 without the bugs.",
+      "description": "[Stable Release]\nIncludes improvements from the current Alpha development phase, with all known bugs resolved.",
       "updateUrl": "None",
       "push": "True"
     },
     {
       "versionNumber": "1.6.2",
-      "description": "Benefits from 1.7 without the bugs. And is made release-ready. New feature from 1.7 is the search.",
+      "description": "[Stable Release]\nStable release-ready version with new search feature from the current Alpha developement phase.",
       "updateUrl": "https://github.com/adalfarus/Manhwa-Viewer-1.6/releases/tag/v.1.6.2",
       "push": "True"
     },
     {
       "versionNumber": "1.6.3",
-      "description": "Added small bugfixes and minor features for version 1.6.2.",
+      "description": "[Stable Release]\nMinor bug fixes and small feature enhancements.",
       "updateUrl": "https://github.com/adalfarus/Manhwa-Viewer-1.6/releases/tag/v1.6.3",
       "push": "True"
     },
     {
       "versionNumber": "1.6.4",
-      "description": "Made the application much more enjoyable than 1.6.3.\n\nFeatures include: \n-Reduced load times by more than 100%\n-Smooth scrolling\n-7 new providers\n-Provider switching made easier than ever",
+      "description": "[Stable Release]\nEnhanced user experience with significantly reduced load times, smooth scrolling, 7 new providers, and simpler provider switching.",
       "updateUrl": "https://github.com/adalfarus/Manhwa-Viewer-1.6/releases/tag/v1.6.4.1",
       "push": "True"
     },
     {
       "versionNumber": "1.6.5a0",
-      "description": "!!ALPHA VERSION!!\nImplemented many nice to have features and styling options, Lazy Loading is planned to be in the Full Release.",
+      "description": "[Alpha Release: Not Fully Stable]\nImplemented many nice to have features and styling options, Lazy Loading is planned to be in the Full Release.",
       "updateUrl": "https://github.com/adalfarus/Manhwa-Viewer-1.6/releases/tag/v1.6.5a",
       "push": "False"
     },
     {
       "versionNumber": "1.6.5b0",
-      "description": "!!ALPHA VERSION!!\nImplemented custom themes and bugfixes for 1.6.5a.",
+      "description": "[Preview Release]\nImplemented custom themes and bugfixes for 1.6.5a.",
       "updateUrl": "https://github.com/adalfarus/Manhwa-Viewer-1.6/releases/tag/v1.6.5b",
       "push": "False"
     },
     {
       "versionNumber": "170a0",
-      "description": "!!ALPHA VERSION!!\nGeneral performance and look improvements.",
+      "description": "[Alpha Release: Not Fully Stable]\nGeneral performance and look improvements.",
       "updateUrl": "None",
       "push": "False"
     }
