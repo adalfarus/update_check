@@ -73,6 +73,18 @@
       "push": "False"
     },
     {
+      "versionNumber": "1.6.5",
+      "description": "[Stable Release]\nAdded custom themes and bug fixes.",
+      "updateUrl": "https://github.com/adalfarus/Manhwa-Viewer-1.6/releases/tag/v1.6.5",
+      "push": "True"
+    },
+    {
+      "versionNumber": "166",
+      "description": "[Stable Release]\nImplemented minor visual bug fixes, added new themes and dramatically reduced executable size.",
+      "updateUrl": "https://github.com/adalfarus/Manhwa-Viewer-1.6/releases/tag/v166",
+      "push": "True"
+    },
+    {
       "versionNumber": "170a0",
       "description": "[Alpha Release: Not Fully Stable]\nGeneral performance and UI improvements, with a focus on stabilizing and simplifying enhancements introduced in the last two Alpha and Beta releases.",
       "updateUrl": "None",
