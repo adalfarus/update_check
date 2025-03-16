@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "newestVersion": "170a0",
+    "newestVersion": "170",
     "authors": "Adalfarus",
     "lastUpdated": "2024-11-05",
     "sorryUrl": "https://github.com/adalfarus/update_check/blob/main/sorry.md"
@@ -89,6 +89,12 @@
       "description": "[Alpha Release: Not Fully Stable]\nGeneral performance and UI improvements, with a focus on stabilizing and simplifying enhancements introduced in the last two Alpha and Beta releases.",
       "updateUrl": "None",
       "push": "False"
+    },
+    {
+      "versionNumber": "170",
+      "description": "[Stable Release]\nGeneral performance and UI improvements, with a focus on stabilizing and simplifying enhancements:\n-Replaced ScrollArea with a custom GraphicsView\n-Massively improved performance\n-Added OpenGL version (At least for me the OpenGL version seems slower)\n-Dramatically reduced executable size\n-Implemented Lazy Loading\n-Restores old scroll position when resizing",
+      "updateUrl": "https://github.com/adalfarus/Manhwa-Viewer/releases/tag/v170",
+      "push": "True"
     }
   ]
 }
